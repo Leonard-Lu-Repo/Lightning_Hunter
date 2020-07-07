@@ -1,0 +1,15 @@
+@font-face{
+    font-family: 'Perfect dark';
+    src: url('../Fonts/perfect_dark/pdark.ttf');
+}
+@font-face{
+    font-family: 'Digital dream';
+    src: url('../Fonts/Digital-dream/DIGITALDREAMFAT.ttf');
+}
+
+#canvas {
+    border: 1px black dotted;
+    display: block;
+    margin: 0 auto;
+    
+}
