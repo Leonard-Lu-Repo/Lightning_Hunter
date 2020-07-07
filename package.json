@@ -7,14 +7,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wbalaniucCentennialCollege/COMP397_S2020.git"
+    "url": "git+https://github.com/Lenard-Lu/Lightning_Hunter.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wbalaniucCentennialCollege/COMP397_S2020/issues"
+    "url": "https://github.com/Lenard-Lu/Lightning_Hunter/issues"
   },
-  "homepage": "https://github.com/wbalaniucCentennialCollege/COMP397_S2020#readme",
+  "homepage": "https://github.com/Lenard-Lu/Lightning_Hunter#readme",
   "dependencies": {
     "easeljs": "^1.0.2",
     "lite-server": "^2.5.4",
